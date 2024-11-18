@@ -10,7 +10,8 @@ Features:
  Tech Stack:
  -python
  -flask
- -SQLite
+ -Postgresqp
  -HTML
  -CSS
- -Javascript
+ -javascript
+ -nextjs
