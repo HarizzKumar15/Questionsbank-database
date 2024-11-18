@@ -10,7 +10,7 @@ Features:
  Tech Stack:
  -python
  -flask
- -Postgresqp
+ -PostgreSQL
  -HTML
  -CSS
  -javascript
